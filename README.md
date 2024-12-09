@@ -8,3 +8,4 @@ Para inicializar
 ```bash
 $ npm run start
 ```
+Exercício 1
